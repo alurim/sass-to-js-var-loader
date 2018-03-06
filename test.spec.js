@@ -10,4 +10,6 @@ if (result !== expected) {
 		'Expected: ' + expected + '\n' +
 			'Received: ' + result
 	)
+} else {
+	console.log('Things look good! 🎉')
 }
